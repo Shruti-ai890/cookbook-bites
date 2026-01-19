@@ -29,8 +29,3 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [View Live Site](https://cookbookbites.rf.gd/)
-
----
